@@ -167,5 +167,4 @@ if __name__ == '__main__':
         f8.text = '0.0000'
 
     save_file(prettify(envelope))
-
-    print('Your XML file is located inside output folder.')
+    print('XML file exported to output folder.')
